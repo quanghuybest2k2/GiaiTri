@@ -1,0 +1,15 @@
+C:\Users\Doan Quang Huy\Downloads\Self\bin\Debug\net7.0\Self.exe
+C:\Users\Doan Quang Huy\Downloads\Self\bin\Debug\net7.0\Self.deps.json
+C:\Users\Doan Quang Huy\Downloads\Self\bin\Debug\net7.0\Self.runtimeconfig.json
+C:\Users\Doan Quang Huy\Downloads\Self\bin\Debug\net7.0\Self.dll
+C:\Users\Doan Quang Huy\Downloads\Self\bin\Debug\net7.0\Self.pdb
+C:\Users\Doan Quang Huy\Downloads\Self\obj\Debug\net7.0\Self.csproj.AssemblyReference.cache
+C:\Users\Doan Quang Huy\Downloads\Self\obj\Debug\net7.0\Self.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doan Quang Huy\Downloads\Self\obj\Debug\net7.0\Self.AssemblyInfoInputs.cache
+C:\Users\Doan Quang Huy\Downloads\Self\obj\Debug\net7.0\Self.AssemblyInfo.cs
+C:\Users\Doan Quang Huy\Downloads\Self\obj\Debug\net7.0\Self.csproj.CoreCompileInputs.cache
+C:\Users\Doan Quang Huy\Downloads\Self\obj\Debug\net7.0\Self.dll
+C:\Users\Doan Quang Huy\Downloads\Self\obj\Debug\net7.0\refint\Self.dll
+C:\Users\Doan Quang Huy\Downloads\Self\obj\Debug\net7.0\Self.pdb
+C:\Users\Doan Quang Huy\Downloads\Self\obj\Debug\net7.0\Self.genruntimeconfig.cache
+C:\Users\Doan Quang Huy\Downloads\Self\obj\Debug\net7.0\ref\Self.dll
